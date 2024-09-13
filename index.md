@@ -4,18 +4,14 @@ title: My Profile
 ---
 
 # About Me
-## Current
-           <p> Since 2022, I am working as a PostDoc scientist in Visualisation group of Department of Visual Computing and Enginnering, Institute for Software Technology, German Aerospace Center (DLR), Germany. I am based in Braunschweig office. In my role, I am responsible of conceiving, developing and successfull dissimenination of a Visual Analytics based solutions to the projects. My current projects are related to Visual Analytics in Data Manangement, Visual Analytics of Digital Twins,V
 
-        <p>I am a a Senior Researcher of the Department of Software for Space Systems and Interactive Visualization, German Aerospace Center (DLR), Institute for Software Technology, Germany.
+<p> Since 2022, I am working as a PostDoc scientist in Visualisation group of Department of Visual Computing and Enginnering, Institute for Software Technology, German Aerospace Center (DLR), Germany. I am based in Braunschweig office. In my role, I am responsible of conceiving, developing and successfull dissimenination of a Visual Analytics based solutions to the projects. My current projects are related to Visual Analytics in Data Manangement, Visual Analytics of Digital Twins, Visual Analytics of Mobility and Epidemiology. 
+ 
+I did my PhD in 2021  with a defending thesis on "Domain Knowledge Based Visualisation Recommendation System" under the supervision of Professor Birgitta König-Reis from the Friedrich Schiller University Jena, Germany. I did my Master Research (MRes) degree in Computer Aided Decision Support System with Internship in 'Visualising Quality of Open Datasets' from  Ecole Polytechnique Tours France, in 2014. 
 
-I earned my Bachelor and Master degree in Computer Science at the University of Genova (Italy), in 2008 and 2010, respectively. I started my PhD in 2011 under the supervision of Professor Leila De Floriani. During Fall 2011, I've been a visiting PhD student at the University of Maryland collaborating with Kenneth Weiss.
+My research interests include application of visual analytics solutions in data management, infrastructure and subsystem analysis, mobility and transportation. Human computer interaction (HCI), natural language processing (NLP), spatio-Temporal data, graph analytics and uncertainty visualisation.
 
-In 2015, I got my PhD in Computer Science at the University of Genova defending a thesis on "A spatio-topological approach to the representation of simplicial complexes and beyond". I have been a Post-Doctoral Fellow Affiliate at Computer Science and Geographical Sciences departments of the University of Maryland, College Park, USA, from April 2015 to June 2016, and from July 2016 to June 2019, respectively.
-
-My research interests include Spatial Data structures and Algorithms, Scientific Visualization, Topology-based Data Analysis, High Performance Computing (HPC), Geometric Modeling, and Geographic Information Systems.
-
-Please see my publications and full CV or feel free to contact me.</p>
+List of my publications are available over my Research Gate and Google Scholar account. For queries, feel free to contact me.</p>
 
 <style>
 h1 {
