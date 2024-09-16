@@ -39,6 +39,6 @@ For queries, feel free to contact me.</p>
    - Hotspot Detection Spatio Temporal Data
    - Visualising Technology Roadmapping: A Case Study from Automobile/Vehicle Industry
 # Funding
-    - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
+   - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
     
      
