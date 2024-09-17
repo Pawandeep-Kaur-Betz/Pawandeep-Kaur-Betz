@@ -16,15 +16,7 @@ I did my PhD in 2021  with a defending thesis on "Domain Knowledge Based Visuali
 <br><br>
 My research interests include application of visual analytics solutions in data management, infrastructure and subsystem analysis, mobility and transportation. Human computer interaction (HCI), natural language processing (NLP), spatio-Temporal data, graph analytics and uncertainty visualisation.
 <br><br>
-List of my publications and CV are available at
-    - [Research Gate](https://www.researchgate.net/profile/Pawandeep-Kaur-24) 
-    - [Google Scholar](https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en)
-    - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
-    - [X](https://x.com/littlepawan)
- <br><br>
 For queries, feel free to contact me.</p>
-<br>
-
 
 # Current Projects
  - [Graph Based Visual Search Engine](https://vesa.webapps.nfdi4earth.de/): A Tool to visualise knowledge graph and assist scientists in better data search.
@@ -40,5 +32,13 @@ For queries, feel free to contact me.</p>
    - Visualising Technology Roadmapping: A Case Study from Automobile/Vehicle Industry
 # Funding
    - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
+
+# List of my publications 
+    - [Research Gate](https://www.researchgate.net/profile/Pawandeep-Kaur-24) 
+    - [Google Scholar](https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en)
+# Professional Channel
+    - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
+    - [X](https://x.com/littlepawan)
+ 
     
      
