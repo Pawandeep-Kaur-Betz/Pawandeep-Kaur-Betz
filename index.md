@@ -24,18 +24,19 @@ For queries, feel free to contact me.</p>
  - [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
 
 # Current Students    
- - PhD thesis in visualising uncertainty in Progressive Visualisation
+  - PhD thesis in visualising uncertainty in Progressive Visualisation
 
 # Previous Master Thesis
-   - [Enhancing Uncertainty Communication in Time Series Predictions: Insights and Recommendations](https://arxiv.org/pdf/2408.12365)
-   - Hotspot Detection Spatio Temporal Data
-   - Visualising Technology Roadmapping: A Case Study from Automobile/Vehicle Industry
+  - [Enhancing Uncertainty Communication in Time Series Predictions: Insights and Recommendations](https://arxiv.org/pdf/2408.12365)
+  - Hotspot Detection Spatio Temporal Data
+  - Visualising Technology Roadmapping: A Case Study from Automobile/Vehicle Industry
 # Funding
-   - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
+  - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
 
 # List of my publications 
   - [Research Gate](https://www.researchgate.net/profile/Pawandeep-Kaur-24) 
   - [Google Scholar](https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en)
+    
 # Professional Channel
   - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
   - [X](https://x.com/littlepawan)
