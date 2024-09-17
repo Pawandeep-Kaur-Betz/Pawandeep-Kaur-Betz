@@ -35,10 +35,10 @@ For queries, feel free to contact me.</p>
 
 # List of my publications 
   - [Research Gate](https://www.researchgate.net/profile/Pawandeep-Kaur-24) 
-    - [Google Scholar](https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en)
+  - [Google Scholar](https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en)
 # Professional Channel
-    - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
-    - [X](https://x.com/littlepawan)
+  - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
+  - [X](https://x.com/littlepawan)
  
     
      
