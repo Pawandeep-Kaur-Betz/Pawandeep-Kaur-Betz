@@ -1,6 +1,12 @@
+layout: default
+title: Pawandeep Kaur Betz
 
+.thumbnail {
+    width: 100px;
+    height: auto;
+}
 
-# Pawandeep Kaur Betz
+# About Me
 
 <p> Since 2022, I am working as a PostDoc scientist in Visualisation group of Department of Visual Computing and Enginnering, Institute for Software Technology, German Aerospace Center (DLR), Germany. I am based in Braunschweig office. In my role, I am responsible of conceiving, developing and successfull dissimenination of a Visual Analytics based solutions to the projects. My current projects are related to Visual Analytics in Data Manangement, Visual Analytics of Digital Twins, Visual Analytics of Mobility and Epidemiology. 
  <br> <br>
@@ -16,7 +22,7 @@ For queries, feel free to contact me.</p>
  - [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
 
 # Previous Projects
-  - ![image](sMon.png) Visualisation tool to predicts the probability of the species in different parts of Germany.
+  - <img src="sMon.png" alt="Thumbnail Image" class="thumbnail"> Visualisation tool to predicts the probability of the species in different parts of Germany.
   - ![image](visrec.png) Visualisation tool to automatically recommend charts for visualising datasets in data repository.
 # Funding
   - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
