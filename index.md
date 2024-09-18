@@ -8,9 +8,9 @@ title: Pawandeep Kaur Betz
 
 <p> Since 2022, I am working as a PostDoc scientist in Visualisation group of Department of Visual Computing and Enginnering, Institute for Software Technology, German Aerospace Center (DLR), Germany. I am based in Braunschweig office. In my role, I am responsible of conceiving, developing and successfull dissimenination of a Visual Analytics based solutions to the projects. My current projects are related to Visual Analytics in Data Manangement, Visual Analytics of Digital Twins, Visual Analytics of Mobility and Epidemiology. 
  <br> <br>
-I did my PhD in 2021  with a defending thesis on "Domain Knowledge Based Visualisation Recommendation System" under the supervision of Professor Birgitta König-Reis from the Friedrich Schiller University Jena, Germany. I did my Master Research (MRes) degree in Computer Aided Decision Support System with Internship in 'Visualising Quality of Open Datasets' from  Ecole Polytechnique Tours France, in 2014. 
+I did my PhD in 2021  with thesis on "Domain Knowledge Based Visualisation Recommendation System" under the supervision of Professor Birgitta König-Reis from the Friedrich Schiller University Jena, Germany. During my Phd, I was also employed by the university as a Research Assistant. I did my Master Research (MRes) degree in Computer Aided Decision Support System with Internship in 'Visualising Quality of Open Datasets' from  Ecole Polytechnique Tours France, in 2014. 
 <br><br>
-My research interests include application of visual analytics solutions in data management, infrastructure and subsystem analysis, mobility and transportation. Human computer interaction (HCI), natural language processing (NLP), spatio-Temporal data, graph analytics and uncertainty visualisation.
+My research interests include application of visual analytics solutions in data management, infrastructure and subsystem analysis, mobility and transportation. human computer interaction (HCI), natural language processing (NLP), spatio-temporal data, graph analytics and uncertainty visualisation.
 <br><br>
 For queries, feel free to contact me.</p>
 
@@ -20,7 +20,7 @@ For queries, feel free to contact me.</p>
  - ![image](esid_thumb.png) [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
 
 # Previous Projects
-  - ![image](sMon_thumb.png) Visualisation tool to predicts the probability of the species in different parts of Germany.
+  - <div style="text-align: center;"> ![image](sMon_thumb.png) <p>Visualisation tool to predicts the probability of the species in different parts of Germany. </p> </div>
   - ![image](visrec_thumb.png) Visualisation tool to automatically recommend charts for visualising datasets in data repository.
 # Funding
   - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
