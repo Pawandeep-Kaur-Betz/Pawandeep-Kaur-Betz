@@ -1,12 +1,4 @@
----
-layout: default
-title:Pawandeep Kaur Betz
----
-<style>
-h1 {
-    color: Black;
-}
-</style>
+
 
 # About Me
 
