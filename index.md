@@ -41,6 +41,12 @@ For queries, feel free to contact me.</p>
 # Professional Channel
   - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
   - [X](https://x.com/littlepawan)
- 
+    
+# Connect with Me
+<a href="https://www.linkedin.com/in/your-profile/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
+<a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
+<a href="https://twitter.com/your-username" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> |
+<a href="https://www.facebook.com/your-profile" target="_blank"><i class="fab fa-facebook"></i> Facebook</a> |
+<a href="https://www.instagram.com/your-username/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
     
      
