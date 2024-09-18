@@ -2,8 +2,8 @@ layout: default
 title: Pawandeep Kaur Betz
 
 .thumbnail {
-    width: 100px;
-    height: 100px;
+    width: 50px;
+    height: 50px;
 }
 
 # About Me
