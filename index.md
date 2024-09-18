@@ -1,10 +1,10 @@
 ---
 layout: default
-title: My Profile
+title:Pawandeep Kaur Betz
 ---
 <style>
 h1 {
-    color: red;
+    color: Black;
 }
 </style>
 
@@ -23,15 +23,19 @@ For queries, feel free to contact me.</p>
  - [Visual Analytic of Pandemic through Trajectory Analysis](https://www.dlr.de/de/sc/forschung-transfer/projekte/pandemos): A tool to visualise the trajectory during pandemic time to understand the network of infection.
  - [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
 
+# Previous Projects
+  - [VisuaLI]
+# Funding
+  - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
+
 # Current Students    
   - PhD thesis in visualising uncertainty in Progressive Visualisation
 
 # Previous Master Thesis
-  - [Enhancing Uncertainty Communication in Time Series Predictions: Insights and Recommendations](https://arxiv.org/pdf/2408.12365)
+  - [Enhancing Uncertainty Communication in Time Series Predictions: Insights and Recommendations](https://arxiv.org/pdf/2408.12365) https://arxiv.org/pdf/2408.12365
   - Hotspot Detection Spatio Temporal Data
   - Visualising Technology Roadmapping: A Case Study from Automobile/Vehicle Industry
-# Funding
-  - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
+
 
 # List of my publications 
   - [Research Gate](https://www.researchgate.net/profile/Pawandeep-Kaur-24) 
