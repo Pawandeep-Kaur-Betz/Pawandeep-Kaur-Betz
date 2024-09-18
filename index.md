@@ -3,7 +3,7 @@ title: Pawandeep Kaur Betz
 
 .thumbnail {
     width: 100px;
-    height: auto;
+    height: 100px;
 }
 
 # About Me
