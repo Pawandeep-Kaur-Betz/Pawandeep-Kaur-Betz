@@ -1,6 +1,6 @@
 
 
-# About Me
+# Pawandeep Kaur Betz
 
 <p> Since 2022, I am working as a PostDoc scientist in Visualisation group of Department of Visual Computing and Enginnering, Institute for Software Technology, German Aerospace Center (DLR), Germany. I am based in Braunschweig office. In my role, I am responsible of conceiving, developing and successfull dissimenination of a Visual Analytics based solutions to the projects. My current projects are related to Visual Analytics in Data Manangement, Visual Analytics of Digital Twins, Visual Analytics of Mobility and Epidemiology. 
  <br> <br>
