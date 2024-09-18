@@ -33,20 +33,12 @@ For queries, feel free to contact me.</p>
   - Hotspot Detection Spatio Temporal Data
   - Visualising Technology Roadmapping: A Case Study from Automobile/Vehicle Industry
 
-
-# List of my publications 
-  - [Research Gate](https://www.researchgate.net/profile/Pawandeep-Kaur-24) 
-  - [Google Scholar](https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en)
-    
-# Professional Channel
-  - [Linkedin](https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/) 
-  - [X](https://x.com/littlepawan)
     
 # Connect with Me
-<a href="https://www.linkedin.com/in/your-profile/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
-<a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i> GitHub</a> |
-<a href="https://twitter.com/your-username" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> |
-<a href="https://www.facebook.com/your-profile" target="_blank"><i class="fab fa-facebook"></i> Facebook</a> |
-<a href="https://www.instagram.com/your-username/" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+<a href="https://www.linkedin.com/in/pawandeep-kaur-betz-ph-d-30167a18/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a> |
+<a href="https://x.com/littlepawan" target="_blank"><i class="fab fa-twitter"></i> Twitter</a> |
+<a href="https://www.researchgate.net/profile/Pawandeep-Kaur-24" target="_blank"><i class="fab fa-researchgate"></i> ResearchGate</a> |
+<a href="https://scholar.google.com/citations?user=F72WAVkAAAAJ&hl=en" target="_blank"><i class="fab fa-twitter"></i> Google Scholar</a> |
+
     
      
