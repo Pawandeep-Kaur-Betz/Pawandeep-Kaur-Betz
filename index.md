@@ -1,10 +1,8 @@
+---
 layout: default
 title: Pawandeep Kaur Betz
+---
 
-.thumbnail {
-    width: 50px;
-    height: 50px;
-}
 
 # About Me
 
@@ -17,9 +15,9 @@ My research interests include application of visual analytics solutions in data 
 For queries, feel free to contact me.</p>
 
 # Current Projects
- - [Graph Based Visual Search Engine](https://vesa.webapps.nfdi4earth.de/): A Tool to visualise knowledge graph and assist scientists in better data search.
+ - ![image](vesa_thumb.png) [Graph Based Visual Search Engine](https://vesa.webapps.nfdi4earth.de/): A tool to visualise knowledge graph and assist scientists in better data search.
  - [Visual Analytic of Pandemic through Trajectory Analysis](https://www.dlr.de/de/sc/forschung-transfer/projekte/pandemos): A tool to visualise the trajectory during pandemic time to understand the network of infection.
- - [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
+ - ![image](esid_thumb.png) [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
 
 # Previous Projects
   - ![image](sMon_thumb.png) Visualisation tool to predicts the probability of the species in different parts of Germany.
