@@ -20,7 +20,7 @@ For queries, feel free to contact me.</p>
  - ![image](esid_thumb.png) [Spatio-Temporal Visual Analytics of Pandemic](https://www.dlr.de/de/sc/forschung-transfer/projekte/loki-pandemoics): Visualising pandemic simulation data for understanding and deciding effective mitigation measures.
 
 # Previous Projects
-  - <div style="text-align: center;"> ![image](sMon_thumb.png) <p>Visualisation tool to predicts the probability of the species in different parts of Germany. </p> </div>
+  - <div style="text-align: center;">  <img src="sMon_thumb.png" alt="Visualization Tool" style="width: 150px; display: block; margin: 0 auto;"> <p>Visualisation tool to predicts the probability of the species in different parts of Germany. </p> </div>
   - ![image](visrec_thumb.png) Visualisation tool to automatically recommend charts for visualising datasets in data repository.
 # Funding
   - [NFDI4Earth for Graph Based Visual Search Engine](https://www.nfdi4earth.de/2participate/pilots)
